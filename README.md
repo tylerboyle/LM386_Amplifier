@@ -1,7 +1,7 @@
 # LM386_Amplifier
 Schematic for a simple LM386 amplifier circuit.
 
-KiCAD V6 fils with circuit design. 
+KiCAD V6 files with circuit design. 
 
 Inspiration borrowed from:
 https://www.circuits-diy.com/low-power-audio-amplifier-using-lm386/ ,
